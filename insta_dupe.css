@@ -418,3 +418,7 @@ igb{
 .IGblack{
 	color: var(--IGblack);
 }
+
+.IGwhite{
+	color: var(--IGwhite);
+}
